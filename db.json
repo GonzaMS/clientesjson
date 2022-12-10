@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "ci": "2314213",
+      "ruc": "213-8"
+      "direccion": "Avenida Ucrania"
+    },
+    {
+      "id": 2,
+      "ci": "4564783",
+      "ruc": "783-8"
+      "direccion": "Calle Palma"
+    },
+    {
+      "id": 3,
+      "ci": "7890543",
+      "ruc": "543-8",
+      "direccion": "Capitan Bado"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
+}
